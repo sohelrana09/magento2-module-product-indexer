@@ -1,3 +1,5 @@
+In Magento2, You cann't run indexing from admin. So this module will help you to run indexing from admin.
+
 Setup step:
 
 1. copy SR folder inside app/code
