@@ -1,4 +1,4 @@
-In Magento2, You cann't run indexing from admin. So this module will help you to run indexing from admin.
+In Magento2, You can't run indexing from admin. So this module will help you to run indexing from admin.
 
 Setup step:
 
